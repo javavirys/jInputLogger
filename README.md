@@ -4,12 +4,12 @@
 ###### eng ######
 This is a test project, which shows the operation of a device file
 ### Requirements: ###
->OS Android 2.3 and above
+>OS Android 2.1 and above
 
 ***
 ###### rus ######
 Это тестовый проэкт, который демонстрирует работу с файлами устройствами
 ### Требования: ###
->OS Android 2.3 и выше
+>OS Android 2.1 и выше
 
 ***
